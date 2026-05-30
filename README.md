@@ -23,6 +23,9 @@ Little's PDF is a Quick & clean, efficient, and user-friendly Python-based tool 
 <img width="354" height="314" alt="image" src="https://github.com/user-attachments/assets/e870100b-1fc8-4459-a26d-42423c17c0f5" />
 
 ### Merge Multiple file formats into PDF (Merge Excel, word, Images, PPT into Single PDF) ###
+
+Select the files > Right Click > Send to > Merge in Little's PDF)
+
 <img width="842" height="450" alt="image" src="https://github.com/user-attachments/assets/95275634-2b78-4df8-8d00-2bd80180052c" />
 <img width="581" height="452" alt="image" src="https://github.com/user-attachments/assets/318cef4e-e7cd-4a32-be6c-d61290c84671" />
 
