@@ -16,15 +16,15 @@ Little's PDF is a Quick & clean, efficient, and user-friendly Python-based tool 
 ### Convert files to PDF just by right clicking it ###
 <img width="375" height="144" alt="image" src="https://github.com/user-attachments/assets/b8e7eade-9991-4cc3-bce4-e21e89623823" />
 
-### Cute tiny Progress bar that lets you to monitor your status ###
+### Cute tiny Progress bar that lets you to monitor your status without disturbing you###
 <img width="418" height="93" alt="image" src="https://github.com/user-attachments/assets/ec3ddd9f-dda3-4363-86fa-1dd2f7b8e51c" />
 
 ### Sheet Selection for Excel Files ###
 <img width="354" height="314" alt="image" src="https://github.com/user-attachments/assets/e870100b-1fc8-4459-a26d-42423c17c0f5" />
 
-### Merge Multiple file formats into PDF (Merge Excel, word, Images, PPT into Single PDF) ###
+### Merge Multiple file formats into Single PDF (Merge Excel, word, Images, PPT into Single PDF) ###
 
-Select the files > Right Click > Send to > Merge in Little's PDF)
+Select the files > Right Click > Send to > Merge in Little's PDF. Also Rearrange the Order as per your need
 
 <img width="842" height="450" alt="image" src="https://github.com/user-attachments/assets/95275634-2b78-4df8-8d00-2bd80180052c" />
 <img width="581" height="452" alt="image" src="https://github.com/user-attachments/assets/318cef4e-e7cd-4a32-be6c-d61290c84671" />
