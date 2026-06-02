@@ -1,8 +1,65 @@
-# Little's PDF 📄 - Word, Excel, PPT, JPEG, JPG, PNG to PDF Converter
+# Little's PDF V2.4📄 - Word, Excel, PPT, JPEG, JPG, PNG to PDF Converter
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2bff9aef-75bb-489e-8054-71089dfde618" />
 
-
 Little's PDF is a Quick & clean, efficient, and user-friendly Python-based tool designed to convert Word, Excel, PPT, JPEG, JPG, PNG to PDF. This lets you to handle your daily document conversion and merging needs on Windows without opening heavy apps. This app let you to increase your productivity.
+
+
+Version 2.1 introduces a massive overhaul inaddition to the Version 1, featuring a brand-new modern GUI built with CustomTkinter, an interactive PDF Preview Studio, advanced page-range extraction, and ZIP packaging capabilities. It completely eliminates the need for heavy, expensive PDF editing software for your daily workflow.
+
+## ✨ What's New in v2.4
+* **Modern CustomTkinter UI:** A sleek, borderless, and system-theme-aware interface (Dark/Light mode support).
+* **Interactive Preview Studio:** Visually preview PDFs before exporting. Navigate pages and extract specific ranges (e.g., `1, 3-5`).
+* **Advanced Export Formats:** Convert PDFs into split individual pages, High-Res JPGs, or Transparent PNGs.
+* **ZIP Packaging:** Automatically package large batch conversions or split pages directly into a `.zip` archive.
+* **Thread-Safe Processing:** Improved background processing prevents UI freezing and handles file-name collisions smartly (Auto-rename or Overwrite).
+* **PDF Compression:** Built-in PyMuPDF compression (garbage collection & deflate) to keep file sizes manageable.
+
+## Screenshots
+Just Simply Right click and choose "Send to > Little's PDF tool"
+
+<img width="532" height="156" alt="image" src="https://github.com/user-attachments/assets/6482fa80-1845-4f58-8945-b323c20789ea" />
+
+Single File Processing
+
+<img width="753" height="652" alt="image" src="https://github.com/user-attachments/assets/c0331ee5-5234-42de-bbc7-28d1a8267f08" />
+
+Multiple file format Processing
+
+<img width="603" height="533" alt="image" src="https://github.com/user-attachments/assets/dccbcb6c-a3cb-48e0-ba4e-b7090903e58d" />
+
+## 🚀 Key Features
+### 1. Instant Right-Click Conversion
+### 2. The Batch Merger & Processor
+### 3. Preview & Export Studio
+
+## 🛠️ Installation Requirements
+* **OS:** Windows 10 / 11
+* **Dependencies:** Microsoft Office (Word, Excel, PowerPoint) must be installed locally for native COM-based document conversion.
+
+## Quick Setup:
+1. Go to the [Releases](#) page and download `Littles_PDF_v2.4_Setup.exe`.
+2. Run the installer.
+3. The installer automatically registers the context menus and `Send To` shortcuts for you. Start right-clicking immediately!
+
+---
+
+## 💻 Tech Stack
+* **Core Logic:** `Python 3`
+* **GUI Engine:** `customtkinter`, `tkinter`
+* **PDF Manipulation:** `PyMuPDF` (`fitz`), `fpdf`
+* **Image Processing:** `Pillow` (`PIL`)
+* **Windows Integration:** `pywin32` (`win32com.client`) for silent background MS Office operations.
+* [cite_start]**Installer:** `Inno Setup 6` [cite: 1]
+
+## 🤝 Contributing
+Feel free to fork this project, submit pull requests, or open an issue if you discover a bug or have a feature request! 
+
+---
+*Developed with ☕ and Python by [littlekinz65](https://github.com/littlekinz65/).*
+
+---
+Littles PDF v.1
+Little's PDF is a fast, efficient, and modern Python-based desktop utility designed to convert Word, Excel, PPT, and major image formats into PDFs directly from the Windows right-click menu.
 
 ### Features ###
 * **Multi-Format Support**: Effortlessly convert DOCX, XLSX, PPTX, TXT, and major image formats (JPG, PNG, GIF, BMP, TIFF, WEBP) to PDF.
