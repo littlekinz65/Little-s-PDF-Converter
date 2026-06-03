@@ -1,12 +1,12 @@
-# Little's PDF V2.4📄 - Word, Excel, PPT, JPEG, JPG, PNG to PDF Converter
+# Little's PDF V2.5📄 - Word, Excel, PPT, JPEG, JPG, PNG to PDF Converter
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2bff9aef-75bb-489e-8054-71089dfde618" />
 
 Little's PDF is a Quick & clean, efficient, and user-friendly Python-based tool designed to convert Word, Excel, PPT, JPEG, JPG, PNG to PDF. This lets you to handle your daily document conversion and merging needs on Windows without opening heavy apps. This app let you to increase your productivity.
 
 
-Version 2.1 introduces a massive overhaul inaddition to the Version 1, featuring a brand-new modern GUI built with CustomTkinter, an interactive PDF Preview Studio, advanced page-range extraction, and ZIP packaging capabilities. It completely eliminates the need for heavy, expensive PDF editing software for your daily workflow.
+Version 2.5 introduces a massive overhaul inaddition to the Version 1, featuring a brand-new modern GUI built with CustomTkinter, an interactive PDF Preview Studio, advanced page-range extraction, and ZIP packaging capabilities. It completely eliminates the need for heavy, expensive PDF editing software for your daily workflow.
 
-## ✨ What's New in v2.4
+## ✨ What's New in v2.5
 * **Modern CustomTkinter UI:** A sleek, borderless, and system-theme-aware interface (Dark/Light mode support).
 * **Interactive Preview Studio:** Visually preview PDFs before exporting. Navigate pages and extract specific ranges (e.g., `1, 3-5`).
 * **Advanced Export Formats:** Convert PDFs into split individual pages, High-Res JPGs, or Transparent PNGs.
